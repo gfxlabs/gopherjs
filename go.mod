@@ -1,4 +1,4 @@
-module github.com/gopherjs/gopherjs
+module github.com/gfxlabs/gopherjs
 
 go 1.18
 
